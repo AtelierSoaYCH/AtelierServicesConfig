@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ise</groupId>
-	<artifactId>config</artifactId>
+	<artifactId>server_config</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>config</name>
+	<name>server_config</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>8</java.version>
